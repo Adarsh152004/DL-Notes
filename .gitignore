@@ -1,0 +1,12 @@
+# PDFs
+*.pdf
+
+# VS Code
+.vscode/
+
+# Common ML junk
+datasets/
+models/
+*.pt
+*.pth
+*.h5
